@@ -31,6 +31,12 @@ Button event listeners (`onclick`) control the flow:
 
 ---
 
+## 🖼️ Preview
+
+![Stopwatch Screenshot](stop.png)
+
+---
+
 ## 📂 Project Structure
 
 stopwatch/
@@ -40,12 +46,6 @@ stopwatch/
 ├── style.css
 
 └── script.js
-
----
-
-## 🖼️ Preview
-
-(Add your project screenshot here)
 
 ---
 
