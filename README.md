@@ -39,7 +39,7 @@ Button event listeners (`onclick`) control the flow:
 
 ## 📂 Project Structure
 
-stopwatch/
+stopwatch
 
 ├── index.html
 
