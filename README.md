@@ -1,7 +1,6 @@
 # ⏱️ Stopwatch Webapp
 
-A simple and responsive **Stopwatch** built using **HTML, CSS, and JavaScript**.  
-This project allows users to **start**, **stop**, and **reset** the timer with smooth transitions and an intuitive user interface.
+A simple and responsive **Stopwatch** built using **HTML, CSS, and JavaScript**.
 
 ---
 
@@ -10,14 +9,12 @@ This project allows users to **start**, **stop**, and **reset** the timer with s
 - 🟢 **Start** — Begins the stopwatch.  
 - 🔴 **Stop** — Pauses the timer without resetting the time.  
 - 🔁 **Reset** — Sets the time back to 00:00:00.
-- 
+
 ---
 
-## 🧩 Technologies Used
+## 🖼️ Preview
 
-- **HTML** 
-- **CSS** 
-- **JavaScript**
+![Stopwatch Screenshot](stop.png)
 
 ---
 
@@ -31,40 +28,38 @@ Button event listeners (`onclick`) control the flow:
 
 ---
 
-## 🖼️ Preview
+## 🛠️ Technologies Used
 
-![Stopwatch Screenshot](stop.png)
+| Technology | Badge |
+|------------|-------|
+| HTML      | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html&logoColor=white) |
+| CSS       | ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white) |
+| JavaScript | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
 
 ---
 
-## 📂 Project Structure
+## 📁 Project Structure
 
-stopwatch
-
+```
+stop-watch/
+│
 ├── index.html
-
 ├── style.css
-
-└── script.js
+├── script.js
+└── screenshot.png
+```
 
 ---
 
 ## 💡 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thecodingdhami) 
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thecodingdhami)
-
----
-
-## 📜 License
-
-This project is open source and available under the MIT License.
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dineshsinghdhami1/) 
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dineshsinghdhami)
 
 ---
 
-## 💡 Author
+## ©️ Copyright
 
-Dinesh Singh Dhami
-
-🎓 Bachelor in Computer Engineering @ NAST Dhangadhi
+- All rights reserved © 2025 **[Dinesh Singh Dhami](https://www.dineshsinghdhami.com.np)**
+- This project is licensed for personal and educational use.
+- For commercial use or redistribution, please contact the owner.
